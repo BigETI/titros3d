@@ -1,0 +1,66 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX TITAN Black (ID=0x100c)
+    Vendor:   NVIDIA
+    VRAM:     6106 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\DEV\Unity\Projects\Titros3D\Titros3D\Builds\Titros3DPrototype1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\DEV\Unity\Projects\Titros3D\Titros3D\Builds\Titros3DPrototype1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\DEV\Unity\Projects\Titros3D\Titros3D\Builds\Titros3DPrototype1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\DEV\Unity\Projects\Titros3D\Titros3D\Builds\Titros3DPrototype1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\DEV\Unity\Projects\Titros3D\Titros3D\Builds\Titros3DPrototype1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\DEV\Unity\Projects\Titros3D\Titros3D\Builds\Titros3DPrototype1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\DEV\Unity\Projects\Titros3D\Titros3D\Builds\Titros3DPrototype1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\DEV\Unity\Projects\Titros3D\Titros3D\Builds\Titros3DPrototype1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\DEV\Unity\Projects\Titros3D\Titros3D\Builds\Titros3DPrototype1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\DEV\Unity\Projects\Titros3D\Titros3D\Builds\Titros3DPrototype1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.105 seconds
+Platform assembly: F:\DEV\Unity\Projects\Titros3D\Titros3D\Builds\Titros3DPrototype1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\DEV\Unity\Projects\Titros3D\Titros3D\Builds\Titros3DPrototype1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.699455 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 57c4 -> priority: 1 
+  Thread -> id: 3a64 -> priority: 1 
+  Thread -> id: 13d0 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.335362 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 5631.
+Total: 0.697463 ms (FindLiveObjects: 0.180623 ms CreateObjectMapping: 0.039253 ms MarkObjects: 0.422688 ms  DeleteObjects: 0.044658 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.565390 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 434.
+Total: 0.728753 ms (FindLiveObjects: 0.016497 ms CreateObjectMapping: 0.008533 ms MarkObjects: 0.136818 ms  DeleteObjects: 0.566618 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.151573 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 430.
+Total: 0.903119 ms (FindLiveObjects: 0.016782 ms CreateObjectMapping: 0.008533 ms MarkObjects: 0.144499 ms  DeleteObjects: 0.733019 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.229227 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 540.
+Total: 0.866994 ms (FindLiveObjects: 0.018489 ms CreateObjectMapping: 0.008817 ms MarkObjects: 0.195699 ms  DeleteObjects: 0.643703 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.155165 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 486.
+Total: 1.635001 ms (FindLiveObjects: 0.017920 ms CreateObjectMapping: 0.009386 ms MarkObjects: 0.177210 ms  DeleteObjects: 1.429630 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.714094 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 482.
+Total: 0.916488 ms (FindLiveObjects: 0.017066 ms CreateObjectMapping: 0.008817 ms MarkObjects: 0.156161 ms  DeleteObjects: 0.733873 ms)
+
